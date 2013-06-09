@@ -15,3 +15,7 @@ Why <a href="http://foundation.zurb.com">Foundation</a> versus <a href="http://t
 #### Where to from here?
 
 This is my boilerplate. It has all of the modules and extensions that Foundation has to offer so I can rapidly develop prototypes and websites. I'm licensing any changes I've made (which really is just this HTML document) under the <a href="http://www.wtfpl.net/">WTFPL</a> - so fork it and do with it as you please.
+
+## Licensing
+
+Foundation is licensed under the MIT License. Compass is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a> - <a href="http://umdf.org/compass">Donate to the UMDF</a>. Any additional code or content licensed under <a href="http://wtfpl.net">WTFPL</a>.
